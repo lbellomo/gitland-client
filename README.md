@@ -15,6 +15,8 @@ What you need to complete is:
 - **secret**: your secret token, you can get it [here](from https://github.com/settings/tokens).
 - **step**: the function to decide the next step. All the logic of the agent lives here.
 
+Be careful not to commit your config.py anywhere! You shouldn't post or share your token.
+
 ## Play
 ```
 python main.py

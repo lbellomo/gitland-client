@@ -1,6 +1,10 @@
 # gitland-client
 Code to play with [gitland](https://github.com/programical/gitland/), and a excuse to play with Asyncio.
 
+Gitland was a game where automata cross a 2D board, coloring the positions they pass by the color of their team. You have info about the state of the game looking at the main repo and you change the actions by committing in your repo.
+
+As the main repo went missing, this repo is archived.
+
 ## Install
 
 ```
